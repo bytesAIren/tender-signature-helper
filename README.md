@@ -51,7 +51,7 @@ It is about showing how small, well-designed tools can reduce cognitive load, pr
 
 ## Quick Start
 1. Download or clone this repo
-2. Open `app/index.html` in any modern browser (Chrome/Edge/Firefox)
+2. Open `index.html` in any modern browser (Chrome/Edge/Firefox)
 3. Fill tender data, select documents, click **Calculate signers**
 4. Copy TSV table / Copy email text
 
